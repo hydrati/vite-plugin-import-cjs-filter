@@ -1,0 +1,18 @@
+{
+  "name": "vite-plugin-import-cjs-filter",
+  "version": "1.0.0",
+  "author": "_hydrogen",
+  "repository": "https://github.com/im-oxygen/vite-plugin-import-cjs-fillter/",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc --build ./tsconfig.json"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.31",
+    "typescript": "^4.1.5",
+    "vite": "^2.0.1"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
